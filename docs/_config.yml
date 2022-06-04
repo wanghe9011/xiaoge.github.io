@@ -1,7 +1,7 @@
-title: Your awesome title
+title: One Place Nowhere
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: xiaogeer
+  email: waha9011@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -16,8 +16,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: waha9011@gmail.com
+    github:  wanghe9011@sina.com
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
