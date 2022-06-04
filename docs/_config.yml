@@ -16,8 +16,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: waha9011
-    # github:  wanghe9011@sina.com
+    # twitter: waha9011
+    github:  wanghe9011
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
