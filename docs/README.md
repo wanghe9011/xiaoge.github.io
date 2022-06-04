@@ -1,4 +1,4 @@
-# Java核心技术[Theme preview](https://wanghe9011.github.io/xiaoge.github.io/)
+# [Java核心技术](https://wanghe9011.github.io/xiaoge.github.io/)
 
 # minima
 
