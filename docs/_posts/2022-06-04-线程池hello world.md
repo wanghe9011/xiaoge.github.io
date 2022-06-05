@@ -52,7 +52,7 @@ main:你还好吗?
 3. 对外暴露一个方法，接收任务
 
 类似于下图：
-![](/resource/thread-pool/helloworld.jpg "图1")
+![](https://raw.githubusercontent.com/wanghe9011/xiaoge.github.io/main/resource/thread-pool/helloworld.jpg "图1")
 
 
 
