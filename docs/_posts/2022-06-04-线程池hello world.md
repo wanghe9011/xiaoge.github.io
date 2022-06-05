@@ -52,7 +52,7 @@ main:你还好吗?
 3. 对外暴露一个方法，接收任务
 
 类似于下图：
-![](/resource/thread-pool/%E7%BA%BF%E7%A8%8B%E6%B1%A0helloworld.jpg "图1")
+![](/resource/thread-pool/helloworld.jpg "图1")
 
 
 
