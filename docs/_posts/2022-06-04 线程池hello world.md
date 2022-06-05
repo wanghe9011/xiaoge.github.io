@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "线程池Hello World"
-categories: theadpool,java 核心技术
+categories: misc
+# categories: theadpool,java 核心技术
 ---
 
 ## 线程池如何使用
