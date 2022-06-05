@@ -46,6 +46,15 @@ main:你还好吗?
 * TCP长连接池
 
 ## Java中的线程池如何实现的
+从池化技术可以得出，线程池要实现的有以下几点：
+1. 维护一个线程池，用来执行任务
+2. 维护一个任务队列，用来临时存放任务
+3. 对外暴露一个方法，接收任务
+
+![](/resource/thread-pool/%E7%BA%BF%E7%A8%8B%E6%B1%A0helloworld.jpg "图1")
+
+
+
 Java线程池的核心组件：
 * 线程（Thread）/工厂（ThreadFactory）/任务（Worker）
 * 任务队列（BlockingQueue）/拒绝策略（RejectedExecutionHandler）
